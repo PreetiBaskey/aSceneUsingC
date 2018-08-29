@@ -1,3 +1,6 @@
+/**This is a simple project ,in which a static-scene is created and is made in turboC IDE ,Hope you like it......!!!!!!**/
+
+
 #include<graphics.h>
 #include<stdlib.h>
 #include<stdio.h>
